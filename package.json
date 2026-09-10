@@ -1,11 +1,12 @@
 {
-  "name": "probable-carnival",
-  "version": "1.0.0",
-  "description": "Node.js Discord bot scaffold inspired by the architecture of RayExo/MusicBot.",
+  "name": "neptune-economy-bot",
+  "version": "1.1.0",
+  "description": "Neptune Economy Discord bot",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "dev": "node --watch src/index.js"
+    "dev": "node --watch src/index.js",
+    "deploy": "node src/deploy-commands.js"
   },
   "author": "James",
   "license": "MIT",
