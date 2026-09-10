@@ -1,17 +1,19 @@
 {
   "name": "probable-carnival",
   "version": "1.0.0",
-  "description": "A Node.js Discord bot built by James Warren Labs.",
+  "description": "Node.js Discord bot scaffold inspired by the architecture of RayExo/MusicBot.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js"
   },
+  "author": "James",
+  "license": "MIT",
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=20"
   },
   "dependencies": {
     "discord.js": "^14.22.1",
-    "dotenv": "^17.2.2"
+    "dotenv": "^16.6.1"
   }
 }
