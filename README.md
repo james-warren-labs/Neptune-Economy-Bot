@@ -1,4 +1,4 @@
-# probable-carnival
+# Neptune
 
 Node.js Discord bot scaffold by James.
 
